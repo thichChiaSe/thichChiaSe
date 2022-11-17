@@ -1,6 +1,6 @@
 ### Hi there, I’m Huy 👋
-## I’m a developer, love mobile and website !
-- 🔭 I’m currently working on a CBI/Chi Doanh: https://www.chidoanh.com
+## I’m a developer, love website and mobile !
+- 🔭 I’m currently working on a BAKCO company
 - 🌱 I’m interested in front-end 🤣
 - 🥅 2022 Goals: Study and up level
 - ⚡ Fun fact: I love to trip, badminton
